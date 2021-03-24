@@ -1,23 +1,23 @@
 BungeeCord
 ==========
-BungeeCord is a sophisticated proxy and API designed mainly to teleport players between multiple Minecraft servers. It is the latest incarnation of similar software written by the author from 2011-present.
+BungeeCord é um proxy sofisticado e API projetado principalmente para teletransportar jogadores entre vários servidores do Minecraft. É a última encarnação de software semelhante escrito pelo autor de 2011 até o presente. 
 
 Information
 -----------
-BungeeCord is maintained by [SpigotMC](https://www.spigotmc.org/) and has its own [discussion thread](https://www.spigotmc.org/go/bungeecord) with plenty of helpful information and links.
+BungeeCord é mantido por [SpigotMC](https://www.spigotmc.org/) e tem seu próprio  [discussion thread](https://www.spigotmc.org/go/bungeecord) com muitas informações e links úteis. 
 
 ### Security warning
 
-As your Minecraft servers have to run without authentication (online-mode=false) for BungeeCord to work, this poses a new security risk. Users may connect to your servers directly, under any username they wish to use. The kick "If you wish to use IP forwarding, please enable it in your BungeeCord config as well!" does not protect your Spigot servers.
+Como seus servidores do Minecraft precisam ser executados sem autenticação (online-mode= false) para o BungeeCord funcionar, isso representa um novo risco de segurança. Os usuários podem se conectar aos seus servidores diretamente, com qualquer nome de usuário que desejem usar. O kick "Se você deseja usar o encaminhamento de IP, habilite-o na configuração do BungeeCord também!" não protege seus servidores Spigot. 
 
-To combat this, you need to restrict access to these servers for example with a firewall (please see [firewall guide](https://www.spigotmc.org/wiki/firewall-guide/)).
+Para combater isso, você precisa restringir o acesso a esses servidores, por exemplo, com um firewall  (veja [firewall guide](https://www.spigotmc.org/wiki/firewall-guide/)).
 
 Source
 ------
-Source code is currently available on [GitHub](https://www.spigotmc.org/go/bungeecord-git).
+Source code está atualmente disponível em [GitHub](https://www.spigotmc.org/go/bungeecord-git).
 
 Binaries
 --------
-Precompiled binaries are available for end users on [Jenkins](https://www.spigotmc.org/go/bungeecord-dl).
+Binários pré-compilados estão disponíveis para usuários finais em [Jenkins](https://www.spigotmc.org/go/bungeecord-dl).
 
 (c) 2012-2020 SpigotMC Pty. Ltd.
